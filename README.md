@@ -1,5 +1,8 @@
 ## Um Futuro Programador 😖
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kachan360&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kachan360)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="[https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=true](https://github-readme-stats.vercel.app/api?username=Kachan360&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kachan360&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 ---
 - 😵‍💫 Sou um completo iniciante em pregramação
 - 🤓 Estudando: Python
