@@ -18,3 +18,4 @@
 * 🤓 Estudando: Python
 * 🍻 Hobby: Gamedev
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5g0ooxhn7za4gchsieevjmgez&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=5g0ooxhn7za4gchsieevjmgez&redirect=true)
